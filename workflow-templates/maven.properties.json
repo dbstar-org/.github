@@ -1,0 +1,12 @@
+{
+    "name": "Maven Verify and Deploy Workflow",
+    "description": "Maven Verify and Deploy CI starter workflow.",
+    "categories": [
+        "continuous-integration",
+        "Java",
+        "Maven POM"
+    ],
+    "filePatterns": [
+        "^pom.xml$"
+    ]
+}

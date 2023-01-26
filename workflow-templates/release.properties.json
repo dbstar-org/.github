@@ -1,0 +1,12 @@
+{
+    "name": "Maven Release Workflow",
+    "description": "Maven Release CI starter workflow.",
+    "categories": [
+        "continuous-integration",
+        "Java",
+        "Maven POM"
+    ],
+    "filePatterns": [
+        "^pom.xml$"
+    ]
+}
